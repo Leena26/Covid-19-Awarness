@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    text-align: center;
+    padding:20px;
+    background:white;
+}
+body{
+    background: lavender;
+    font-family: 'Indie Flower', cursive;
+    text-align:center;
+}
+footer{
+    text-align:center;
+    padding:20px;
+}
+.green{
+    display:flex;
+    flex-direction:row;
+   align-content:center;
+    padding-top:50px;
+    justify-content:center;
+}
+.orange{
+    display:flex;
+    flex-direction:row-reverse;
+    align-content:center;
+    padding-top:50px;
+    justify-content:center;
+}
+img{
+    padding:20px;
+}
+h3{
+    padding-top: 50px;
+}
